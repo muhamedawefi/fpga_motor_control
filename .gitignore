@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Vivado generated
+*.jou
+*.log
+*.str
+*.xpr
+.Xil/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.wdb
+*.wcfg
+*.bit
+*.bin
+*.mcs
+
+# cocotb / GHDL
+sim_build/
+*.vcd
+*.ghw
+work-obj08.cf
+
+# Windows garbage
+*Zone.Identifier
+Thumbs.db
+desktop.ini
+
+# Debug artifacts
+debug.log
+debug_output_*.txt
+
+# Misc
+.idea/
+*.swp

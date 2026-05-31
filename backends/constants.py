@@ -1,0 +1,3 @@
+SPEED_SCALE = 128.0        # example (match FPGA)
+CURRENT_SCALE = 4096.0
+VOLTAGE_SCALE = 1024.0
